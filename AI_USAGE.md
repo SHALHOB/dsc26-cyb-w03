@@ -6,17 +6,12 @@ Mentor reads it, and the W8 defence can ask about it.
 
 ## Tools
 
-<!-- Which AI tools you used (or "none"), and for which parts of the task. -->
+i used deepseek 
 
 ## What AI got wrong
 
-<!-- At least one thing an AI tool got wrong that you changed, and how you noticed:
-     a test, the docs, running it. -->
+i dont know becuse i am not a software enginger i am a pen tester and all this code i dont understand and even if the AI  got something wrong i would not know and i would't know how to fix it 
 
 ## In my own words
 
-<!-- One or two sentences each, written without AI. -->
-
-1. Why does `get_document` return 404 rather than 403 when a client asks for another client's contract?
-
-2. Why must `verify_password` refuse a stored hash that is shorter than 32 bytes, even though the prefix matches?
+i doooooooooont knoooooooooow
